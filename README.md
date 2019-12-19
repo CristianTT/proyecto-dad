@@ -1,7 +1,7 @@
 # NATEC
 
 # Miembros
-Cristian Trujillo Trujillo\n
+Cristian Trujillo Trujillo y 
 Beatriz García Hernández
 
 # Descripción
